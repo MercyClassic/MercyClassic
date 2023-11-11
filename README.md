@@ -1,4 +1,4 @@
-**<h2> Hey! 👋 I'm beginner Python web backend developer :heavy_check_mark: </h2>**
+**<h2> Hey! 👋 I'm Python backend developer :heavy_check_mark: </h2>**
 
 **<h2> As I get any achievements, I will post them :) :tada::sparkles: </h2>**
 
