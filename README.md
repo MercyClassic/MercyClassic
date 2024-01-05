@@ -1,7 +1,5 @@
 **<h2> Hey! 👋 I'm Python backend developer :heavy_check_mark: </h2>**
 
-**<h2> As I get any achievements, I will post them :) :tada::sparkles: </h2>**
-
 **<h3> You can find me on: </h3>**
 - <h3>
     <a href="https://t.me/MercyClassic"> 
