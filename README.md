@@ -9,21 +9,20 @@
 | Category       | Tools & Technologies |
 |----------------|----------------------|
 | **Language**   | Python, Golang *(a bit)* |
-| **Frameworks** | FastAPI *(& etc)*, DRF, Celery, FastStream, Aiogram3 |
+| **Framework** | FastAPI *(& etc)*, DRF, Celery, FastStream, Aiogram3 |
 | **ORM** | SQLAlchemy, Django ORM, Odmantic |
-| **Database**   | PostgreSQL, MongoDB, Redis |
+| **Database**   | PostgreSQL, MongoDB, Redis, ELK, Clickhouse |
 | **Broker** | RabbitMQ, Kafka |
-| **Lint** | ruff, mypy, flake8, black |
 | **Testing** | pytest, unittest |
-| **Deployment** | docker, k8s, ansible |
+| **Deployment** | docker, k8s, ansible, jenkins |
 | **Monitoring** | ELK, sentry, grafana |
-| **Technologies** | grpc, oauth2.0, cdc, ci/cd |
+| **Technologies** | grpc, oauth2.0, cdc, ci/cd, nginx |
 
 > ⚡ Not the full stack — just the main tools I use most often.
 
 ### 🌍 You can find me on:
 - <h3>
-    <a href="https://t.me/MercyClassic"> 
+    <a href="https://t.me/mercyote"> 
         <img height=15 width=15 src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">
         Telegram 
     </a>
