@@ -1,24 +1,10 @@
-**<h2> Hey! 👋 I'm Python backend developer <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="25"/> </h2>**
+**<h2> 👋 I'm Python backend developer <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="25"/> </h2>**
 
 ### 🚀 About Me
-- Always eager to explore modern tools, frameworks, and approaches to build reliable and scalable systems.  
-- I've also created a few custom libraries and lightweight frameworks — examples can be found in my profile.
-
-### 🛠 Tech Stack
-
-| Category       | Tools & Technologies |
-|----------------|----------------------|
-| **Language**   | Python, Golang *(a bit)* |
-| **Framework** | FastAPI *(& etc)*, DRF, Celery, FastStream, Aiogram3 |
-| **ORM** | SQLAlchemy, Django ORM, Odmantic |
-| **Database**   | PostgreSQL, MongoDB, Redis, ELK, Clickhouse |
-| **Broker** | RabbitMQ, Kafka |
-| **Testing** | pytest, unittest |
-| **Deployment** | docker, k8s, ansible, jenkins |
-| **Monitoring** | ELK, sentry, grafana |
-| **Technologies** | grpc, oauth2.0, cdc, ci/cd, nginx |
-
-> ⚡ Not the full stack — just the main tools I use most often.
+- Build Python libraries & lightweight frameworks
+- Developer of desktop VPN wrapper for Windows/macOS (tray using, logs)
+- Design scalable and reliable backend systems
+- Strong focus on clean, maintainable code
 
 ### 🌍 You can find me on:
 - <h3>
