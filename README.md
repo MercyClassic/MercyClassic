@@ -2,14 +2,13 @@
 
 ### 🚀 About Me
 - Build Python libraries & lightweight frameworks
-- Developer of desktop VPN wrapper for Windows/macOS (tray using, logs)
+- Developer of desktop VPN wrapper (sing-box) for Windows/macOS (tray using, logs)
 - Design scalable and reliable backend systems
 - Strong focus on clean, maintainable code
 
 ### 🌍 You can find me on:
 - <h3>
     <a href="https://t.me/mercyote"> 
-        <img height=15 width=15 src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">
         Telegram 
     </a>
 </h3>
